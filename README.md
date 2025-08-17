@@ -7,7 +7,7 @@ Small repo that allows using the HTU21D I2C sensor in linux userspace.
 
 # Wiring
 
-![alt text](https://github.com/geoffrey-vl/linux-htu21d/blob/master/image.jpg?raw=true)
+![alt text](https://github.com/geoffrey-vl/linux-htu21d/blob/master/connection_to_rpi-768x626.png?raw=true)
 
 # Build
 
